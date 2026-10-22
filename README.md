@@ -13,4 +13,4 @@ Mi investigación se centra en Deep Learning, Audio AI, Multitask Learning y Mod
 * **Building artificial situational awareness: Soundscape classification in daily-life scenarios of gender based violence victims**
   * Publicado en: [![Engineering Applications of Artificial Intelligence](https://img.shields.io/badge/Engineering%20Applications%20of%20AI-Q1-007A4B?style=flat)](https://doi.org/10.1016/j.engappai.2026.114871)
   * Autores: **Claudia Montero-Ramírez**, Esther Rituerto-González, Carmen Peláez-Moreno
-
+  * DOI: 10.1016/j.engappai.2026.114871
