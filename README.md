@@ -6,7 +6,7 @@
 
 Estudiante de doctorado en Inteligencia Artificial en la **Universidad Carlos III de Madrid**
 
-Mi investigación se centra en Deep Learning, Audio AI, Multitask Learning y Modelos de Lenguaje.
+Mi investigación se centra en Deep Learning, Audio AI, Multitask Learning y Modelos de Lenguaje
 
 ## 📚 Publicaciones
 
