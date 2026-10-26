@@ -15,6 +15,13 @@ Mi investigación se centra en Deep Learning, Audio AI, Multitask Learning y Mod
   * Publicado en: [![Engineering Applications of Artificial Intelligence](https://img.shields.io/badge/Engineering%20Applications%20of%20AI-Q1-007A4B?style=flat)](https://doi.org/10.1016/j.engappai.2026.114871)
   * Autores: **Claudia Montero-Ramírez**, Esther Rituerto-González, Carmen Peláez-Moreno
   * DOI: 10.1016/j.engappai.2026.114871
+ 
+* **Beyond conventional metrics: Using entropic triangles to explain balancing methods in acoustic scene classification**
+
+  * Publicado en: [![Interspeech](https://img.shields.io/badge/Interspeech-Conference-007A4B?style=flat)](https://www.isca-archive.org/interspeech_2025/monteroramirez25_interspeech.html)
+  * Autores: **Claudia Montero-Ramírez**, Alba Martínez-Serrano, Jorge Garcelán-Gómez, Francisco J. Valverde-Albacete, Carmen Peláez-Moreno
+  * DOI: 10.21437/Interspeech.2025-1998
+  * [[!Github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/clmonter/Interspeech-2025-Entropy-Triangle)
 
 ## 🛠️ Skills & Technologies
 
