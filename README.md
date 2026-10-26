@@ -8,7 +8,7 @@ Estudiante de doctorado en Inteligencia Artificial en la **Universidad Carlos II
 
 Mi investigación se centra en Deep Learning, Audio AI, Multitask Learning y Modelos de Lenguaje
 
-## 📚 Publicaciones
+## 📚 Principales publicaciones
 
 * **Building artificial situational awareness: Soundscape classification in daily-life scenarios of gender based violence victims**
   
@@ -22,6 +22,12 @@ Mi investigación se centra en Deep Learning, Audio AI, Multitask Learning y Mod
   * Autores: **Claudia Montero-Ramírez**, Alba Martínez-Serrano, Jorge Garcelán-Gómez, Francisco J. Valverde-Albacete, Carmen Peláez-Moreno
   * DOI: 10.21437/Interspeech.2025-1998
   * [![GitHub Code](https://img.shields.io/badge/GitHub-Source%20Code-007A4B?style=flat&logo=github)](https://github.com/clmonter/Interspeech-2025-Entropy-Triangle)
+ 
+* **Authenticity at Risk: Key Factors in the Generation and Detection of Audio Deepfakes**
+
+  * Publicado en: [![Applied Sciences](https://img.shields.io/badge/Applied%20Sciences-Q2-007A4B?style=flat)](https://doi.org/10.3390/app15020558)
+  * Autores: Alba Martínez-Serrano, **Claudia Montero-Ramírez**, Carmen Peláez-Moreno
+  * DOI: 10.3390/app15020558
 
 ## 🛠️ Skills & Technologies
 
