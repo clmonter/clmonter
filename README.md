@@ -8,7 +8,7 @@ Estudiante de doctorado en Inteligencia Artificial en la **Universidad Carlos II
 
 Mi investigación se centra en Deep Learning, Audio AI, Multitask Learning y Modelos de Lenguaje
 
-## 📚 Principales publicaciones
+## 📚 Algunas publicaciones
 
 * **Building artificial situational awareness: Soundscape classification in daily-life scenarios of gender based violence victims**
   
@@ -28,6 +28,18 @@ Mi investigación se centra en Deep Learning, Audio AI, Multitask Learning y Mod
   * Publicado en: [![Applied Sciences](https://img.shields.io/badge/Applied%20Sciences-Q2-007A4B?style=flat)](https://doi.org/10.3390/app15020558)
   * Autores: Alba Martínez-Serrano, **Claudia Montero-Ramírez**, Carmen Peláez-Moreno
   * DOI: 10.3390/app15020558
+
+<table>
+<tr>
+<td bgcolor="#FFF2CC" align="center">
+
+### 🎓 Otras publicaciones
+
+Consulta todas mis publicaciones en **[Google Scholar](https://scholar.google.es/citations?user=K4RdIMUAAAAJ=es)**.
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Skills & Technologies
 
