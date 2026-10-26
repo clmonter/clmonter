@@ -18,10 +18,10 @@ Mi investigación se centra en Deep Learning, Audio AI, Multitask Learning y Mod
  
 * **Beyond conventional metrics: Using entropic triangles to explain balancing methods in acoustic scene classification**
 
-  * Publicado en: [![Interspeech](https://img.shields.io/badge/Interspeech-Conference-007A4B?style=flat)](https://www.isca-archive.org/interspeech_2025/monteroramirez25_interspeech.html)
+  * Publicado en: [![Interspeech CORE A](https://img.shields.io/badge/Interspeech-CORE%20A-007A4B?style=flat)](https://www.isca-archive.org/interspeech_2025/monteroramirez25_interspeech.html)
   * Autores: **Claudia Montero-Ramírez**, Alba Martínez-Serrano, Jorge Garcelán-Gómez, Francisco J. Valverde-Albacete, Carmen Peláez-Moreno
   * DOI: 10.21437/Interspeech.2025-1998
-  * [[!Github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/clmonter/Interspeech-2025-Entropy-Triangle)
+  * [![GitHub Code](https://img.shields.io/badge/GitHub-Source%20Code-007A4B?style=flat&logo=github)](https://github.com/clmonter/Interspeech-2025-Entropy-Triangle)
 
 ## 🛠️ Skills & Technologies
 
